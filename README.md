@@ -18,7 +18,21 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Amjad+Raza..;Nice+To+Meet+You+....&center=true"></a></p>
 
-#  📞 Connect with me:
+    
+## 👋 About Me 
+I'm a **Full-Stack Developer** focused on Python Development and Software Engineering, passionate about **building high-performance web applications**. I specialize in crafting **scalable, responsive, and feature-rich solutions** that enhance user experience and drive business success, while also exploring and implementing **React.js, JavaScript, and Tailwind CSS** in projects.
+
+
+## 📚 Education
+
+### 🎓 Master of Computer Application (MCA)  
+📍 **Harcourt Butler Technical University, Kanpur (HBTU)** | **2022-2024** | **CGPA: 7.8**  
+
+### 🎓 Bachelor of Science (BSC)  
+📍 **MDU Rohtak(SDIMT Faridabad)** | **Percentage: 69.63%**  
+
+
+##  📞 Connect with me:
 
 <p align="left">
 <a href="https://www.instagram.com/raza_amjad786" target="_blank" rel="noreferrer">
@@ -30,7 +44,7 @@ Here are some ideas to get you started:
 </p>
 
 
-# 🖥️ Technical Skills:
+## 🖥️ Technical Skills:
 
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
@@ -101,7 +115,12 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# 📊 GitHub Stats:
+ ### 🔹 Computer Science Fundamentals  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Data+Structures+&+Algorithms&logo=algorithms&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Data Structures and Algorithms logo" />
+</div>
+
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadraza19&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=amjadraza19&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
@@ -112,6 +131,23 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=amjadraza19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🏆 Achievements  
+
+- 🎯 **NIMCET 2022** – Secured **AIR 944** in the national-level MCA entrance exam.
+
+
+💡 Always exploring new technologies and improving my projects!  
+📫 Let's connect and build something awesome together.  
+- 📫 How to reach me **amjadraza1912@gmail.com**
+
+
+## 🚀 What I Do:
+- Develop dynamic and efficient web applications
+- Work with Python, Django, React.js, JavaScript, and more
+- Manage live projects and contribute to personal and client-based projects
+- Build and maintain scalable, high-performance websites
+- Continuously enhance my technical skills and explore new technologies
 
 <!--START_SECTION:waka-->
 
