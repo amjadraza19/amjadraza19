@@ -28,8 +28,8 @@ I'm a **Full-Stack Developer** focused on Python Development and Software Engine
 ### 🎓 Master of Computer Application (MCA)  
 📍 **Harcourt Butler Technical University, Kanpur (HBTU)** | **2022-2024** | **CGPA: 7.8**  
 
-### 🎓 Bachelor of Science (BSC)  
-📍 **MDU Rohtak(SDIMT Faridabad)** | **Percentage: 69.63%**  
+### 🎓 Bachelor of Computer Application (BCA)  
+📍 **MDU Rohtak(SDIMT Faridabad)** | **2018-2021** | **Percentage: 69.63%**  
 
 
 ##  📞 Connect with me:
