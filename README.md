@@ -149,6 +149,9 @@ I'm a **Full-Stack Developer** focused on Python Development and Software Engine
 - Build and maintain scalable, high-performance websites
 - Continuously enhance my technical skills and explore new technologies
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amjadraza19&label=Profile%20views&color=0e75b6&style=flat" alt="amjadraza1912" /> </p>
+
 <!--START_SECTION:waka-->
 
 ```text
