@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile! 👋
 
-<!--
-**amjadraza19/amjadraza19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -31,7 +29,6 @@ I'm a **Full-Stack Developer** focused on Python Development and Software Engine
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 </p>
-
 
 ## 🖥️ Technical Skills:
 
@@ -109,13 +106,6 @@ I'm a **Full-Stack Developer** focused on Python Development and Software Engine
   <img src="https://img.shields.io/static/v1?message=Data+Structures+&+Algorithms&logo=algorithms&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Data Structures and Algorithms logo" />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## 📊 GitHub Stats:
 
