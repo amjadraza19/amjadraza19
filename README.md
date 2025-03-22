@@ -3,17 +3,6 @@
 <!--
 **amjadraza19/amjadraza19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Amjad+Raza..;Nice+To+Meet+You+....&center=true"></a></p>
@@ -119,6 +108,14 @@ I'm a **Full-Stack Developer** focused on Python Development and Software Engine
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Data+Structures+&+Algorithms&logo=algorithms&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Data Structures and Algorithms logo" />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 📊 GitHub Stats:
 
