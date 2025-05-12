@@ -9,28 +9,28 @@
 ## 👋 About Me 
 I'm a **Full-Stack Developer** focused on Python Development and Software Engineering, passionate about **building high-performance web applications**. I specialize in crafting **scalable, responsive, and feature-rich solutions** that enhance user experience and drive business success, while also exploring and implementing **React.js, JavaScript, and Tailwind CSS** in projects.
 
+
 ## 💼 Work Experience
 ### 💻 Software Developer
 📍 **Oxygen to Innovation | May 2025 – Present**
-
  - Worked on simulation and game development for educational, medical, and defence domains.
  - Contributed to product development, prototyping, and feature testing.
  - Participated in daily stand-ups and weekly reviews for progress tracking.
  - Assisted in product demonstrations and internal testing phases.
  - Collaborated with teams in a goal-driven, project-based environment.
 
+
 ### 🧑‍💻 Full Stack Intern
 📍 **TechAhead Software | July 2024 – Jan 2025**
  - Focused on backend development using Python, Django, and SQL, ensuring efficient database management and API development.
-
  - Developed and optimized RESTful APIs for seamless frontend-backend integration.
  - Implemented authentication and authorization mechanisms using Django Rest Framework (DRF) and Tokens.
  - Improved query performance by optimizing SQL queries and indexing.
  - Collaborated in agile development workflows, participating in code reviews and team discussions.
  - Worked on frontend integration using React.js, HTML, and Tailwind CSS.
 
-## 📚 Education
 
+## 📚 Education
 ### 🎓 Master of Computer Application (MCA)  
 📍 **Harcourt Butler Technical University, Kanpur (HBTU)** | **2022-2024** | **CGPA: 7.8**  
 
@@ -39,7 +39,6 @@ I'm a **Full-Stack Developer** focused on Python Development and Software Engine
 
 
 ##  📞 Connect with me:
-
 <p align="left">
 <a href="https://www.instagram.com/raza_amjad786" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
@@ -49,8 +48,8 @@ I'm a **Full-Stack Developer** focused on Python Development and Software Engine
 </a>
 </p>
 
-## 🖥️ Technical Skills:
 
+## 🖥️ Technical Skills:
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -120,6 +119,7 @@ I'm a **Full-Stack Developer** focused on Python Development and Software Engine
   </a>
 </p>
 
+
  ### 🔹 Computer Science Fundamentals  
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Data+Structures+&+Algorithms&logo=algorithms&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Data Structures and Algorithms logo" />
@@ -127,22 +127,21 @@ I'm a **Full-Stack Developer** focused on Python Development and Software Engine
 
 
 ## 📊 GitHub Stats:
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadraza19&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=amjadraza19&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amjadraza19&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 
-## 🏆 GitHub Trophies
 
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amjadraza19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🏆 Achievements  
 
+## 🏆 Achievements  
 - 🎯 **NIMCET 2022** – Secured **AIR 944** in the national-level MCA entrance exam.
 
-
+## Connect Me 
 💡 Always exploring new technologies and improving my projects!  
 📫 Let's connect and build something awesome together.  
 - 📫 How to reach me **amjadraza1912@gmail.com**
