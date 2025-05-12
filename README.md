@@ -141,7 +141,7 @@ I'm a **Full-Stack Developer** focused on Python Development and Software Engine
 ## 🏆 Achievements  
 - 🎯 **NIMCET 2022** – Secured **AIR 944** in the national-level MCA entrance exam.
 
-## Connect Me 
+## Build with me
 💡 Always exploring new technologies and improving my projects!  
 📫 Let's connect and build something awesome together.  
 - 📫 How to reach me **amjadraza1912@gmail.com**
