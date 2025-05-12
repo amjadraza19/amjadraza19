@@ -9,6 +9,25 @@
 ## 👋 About Me 
 I'm a **Full-Stack Developer** focused on Python Development and Software Engineering, passionate about **building high-performance web applications**. I specialize in crafting **scalable, responsive, and feature-rich solutions** that enhance user experience and drive business success, while also exploring and implementing **React.js, JavaScript, and Tailwind CSS** in projects.
 
+## 💼 Work Experience
+### 💻 Software Developer
+📍 **Oxygen to Innovation | May 2025 – Present**
+
+ - Worked on simulation and game development for educational, medical, and defence domains.
+ - Contributed to product development, prototyping, and feature testing.
+ - Participated in daily stand-ups and weekly reviews for progress tracking.
+ - Assisted in product demonstrations and internal testing phases.
+ - Collaborated with teams in a goal-driven, project-based environment.
+
+### 🧑‍💻 Full Stack Intern
+📍 **TechAhead Software | July 2024 – Jan 2025**
+ - Focused on backend development using Python, Django, and SQL, ensuring efficient database management and API development.
+
+ - Developed and optimized RESTful APIs for seamless frontend-backend integration.
+ - Implemented authentication and authorization mechanisms using Django Rest Framework (DRF) and Tokens.
+ - Improved query performance by optimizing SQL queries and indexing.
+ - Collaborated in agile development workflows, participating in code reviews and team discussions.
+ - Worked on frontend integration using React.js, HTML, and Tailwind CSS.
 
 ## 📚 Education
 
